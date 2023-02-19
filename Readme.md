@@ -58,5 +58,5 @@ for logicalOR using the same variable
 (school === 'Unilag' || age >= '18') ? console.log('Eligible') : console.log('Not Eligible');
 
 FOR QUESTION 4
-
-    Infinity
+The answers are:
+1 , 8 ,15
