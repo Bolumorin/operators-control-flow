@@ -21,4 +21,13 @@ if (myDepartment == 'Arts') {
 }
 
 // FOR NUMBER 5
+ 
+let num = 20;
+let x = 7;
+let pwr = x ** 2;
+ if (pwr <= num ) {
+    console.log('The number  ' + '' +  pwr + '  is the power of 2  nearest to  ' + '' + num);
+ } else{
+    console.log('I have no idea');
+ }
 
